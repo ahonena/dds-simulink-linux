@@ -38,7 +38,7 @@ target_include_directories( my_executable PRIVATE
   ${Matlab_ROOT_DIR}/simulink/include
 )
 
-target_link_libraries( m12_localization_exe PRIVATE
+target_link_libraries( my_executable PRIVATE
   ${CONNEXTDDS_C_API_LIBRARIES_RELEASE_STATIC}
   pthread
   dl
