@@ -1,5 +1,5 @@
 # dds-simulink-linux
-This repository holds information on how to make a preempt_rt Linux executable with Connext DDS components.
+This repository holds information on how to make a preempt_rt Linux executable using Simulink Coder with Connext DDS blocks.
 
 ## Simulink target file for preempt_rt Linux
 Download and install [this](https://github.com/CTU-IIG/ert_linux) Simulink Coder target.
